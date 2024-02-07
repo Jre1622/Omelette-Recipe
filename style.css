@@ -24,3 +24,14 @@ header > img {
 	width: 90%;
 	border-radius: 7%;
 }
+
+main {
+	margin-left: 5%;
+	width: 90%;
+}
+
+.instructions {
+	background-color: lightblue;
+	padding: 5px;
+	border-radius: 7%;
+}
